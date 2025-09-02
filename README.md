@@ -37,16 +37,3 @@ Coder analyzes Claude Code's architecture to extract core components and enable 
 
 This project is for educational and customization purposes. It aims to understand Claude Code's architecture to create improved, customizable alternatives while respecting the original tool's design principles.
 
-## GitHub Repository Details
-
-**Description**: `Reverse engineering Claude Code for customization and multi-model integration`
-
-**Topics/Labels**:
-- `reverse-engineering`
-- `claude-code`
-- `ai-tools`
-- `customization`
-- `openai-compatible`
-- `development-tools`
-- `prompt-engineering`
-- `educational`
